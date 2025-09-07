@@ -1,0 +1,16 @@
+{
+  "testuser": {
+    "username": "testuser",
+    "email": "testuser@gmail.com",
+    "password": "test1234",
+    "is_above_eighteen": true,
+    "free_trial_expiry": "2025-07-21T23:59:59"
+  },
+  "testuser1": {
+    "username": "testuser1",
+    "email": "testuser@gmail.com",
+    "password": "1test1234",
+    "is_above_eighteen": true,
+    "free_trial_expiry": "2025-07-21T23:59:59"
+  }
+}
